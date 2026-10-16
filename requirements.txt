@@ -1,0 +1,12 @@
+ultralytics
+torch
+torchvision
+opencv-python-headless
+matplotlib
+seaborn
+scikit-learn
+pandas
+iterative-stratification
+tqdm
+Pillow
+jupyter
